@@ -7,4 +7,4 @@
 - 💬 Ask me about Code, BigData and Unique Swimming Pools
 
 
-#<a href="https://app.daily.dev/techsam"><img src="https://github.com/tech-sam/tech-sam/blob/master/devcard.svg" width="400" alt="Sumit's Dev Card"/></a>
+<a href="https://app.daily.dev/datasosneh"><img src="https://api.daily.dev/devcards/v2/Ror1bTfFrcjaT0WzsNegB.png?type=default&r=roq" width="356" alt="Snehasish's Dev Card"/></a>
